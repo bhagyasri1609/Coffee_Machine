@@ -19,17 +19,17 @@ This is a Python Coffee Machine project that simulates a coffee vending machine.
 
 2. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/coffee-machine.git
+   git clone https://github.com/your-username/Coffee-Machine.git
    ```
 
 3. **Navigate to the Project Directory:**
    ```
-   cd coffee-machine
+   cd Coffee-Machine
    ```
 
 4. **Run the Coffee Machine:**
    ```
-   python coffee_machine.py
+   python Coffee_Machine.py
    ```
 
 5. **Enjoy Your Coffee!**
